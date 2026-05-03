@@ -44,3 +44,23 @@ Fitur AI menggunakan prompt yang dirancang khusus sebagai asisten catatan, dilen
 7. Aplikasi akan terbuka pada emulator atau device yang dipilih.
 
 ## Screenshoot Aplikasi
+
+- Input Expense
+<img width="430" height="868" alt="Screenshot 2026-05-03 232511" src="https://github.com/user-attachments/assets/c3f72002-9a6b-443e-9dff-43d77642b99b" />
+
+- Expense Summary 
+<img width="456" height="865" alt="Screenshot 2026-05-03 232433" src="https://github.com/user-attachments/assets/e64643ba-c949-4d1b-a139-465c3483dbc1" />
+
+- Loading State
+<img width="429" height="871" alt="Screenshot 2026-05-03 232156" src="https://github.com/user-attachments/assets/bdc767c4-edd7-491a-b086-edd6fcebafe5" />
+
+- Ai Analysis
+<img width="460" height="869" alt="Screenshot 2026-05-03 232219" src="https://github.com/user-attachments/assets/46aecd44-4bc3-46cb-bfbf-47994ea1c200" />
+
+- Error Handling
+<img width="428" height="883" alt="Screenshot 2026-05-03 232634" src="https://github.com/user-attachments/assets/7817493b-8e68-45ea-ba01-a53ccd787043" />
+
+
+
+
+
